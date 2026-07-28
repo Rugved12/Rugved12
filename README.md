@@ -10,13 +10,13 @@ I'm passionate about solving real-world problems using data, machine learning, a
 
 ## 🚀 About Me
 
-- 🎓 Pursuing **Master of Engineering (Computer Engineering)**
-- 💼 Interested in **Data Analytics, Artificial Intelligence, Machine Learning, and Full-Stack Development**
-- 🌱 Currently learning **Machine Learning, FastAPI, React, SQL Optimization, and Power BI**
-- 🔭 Currently working on **Crop Price Forecasting Dashboard using Machine Learning**
-- 📊 Exploring **Predictive Analytics and Data Visualization**
+- 🎓 Pursuing **B.Tech (ELCE)**
+- 💼 Interested in **Data Analytics, Artificial Intelligence, Machine Learning, and Python Development **
+- 🌱 Currently learning **Machine Learning, Sql, React **
+- 🔭 Currently working on **Python Projects **
+- 📊 Exploring **Ai Engineering and Machine Learning **
 - 🤝 Open to collaborating on **AI, Python, Data Science, and Open Source Projects**
-- 💬 Ask me about **Python, SQL, Machine Learning, Data Analytics, React, or GitHub**
+- 💬 Ask me about **Python, SQL, Machine Learning, Data Structure or GitHub**
 - 📫 Reach me at **rugved123adkar@gmail.com**
 - ⚡ Fun Fact: **I enjoy turning datasets into meaningful insights and ideas into working applications.**
 
