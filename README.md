@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rugved Adkar
 
-### 💻 M.E. Computer Engineering Student | Data Analytics | AI & Machine Learning Enthusiast
+### 💻 B.Tech ELCE Student | Data Analytics | AI & Machine Learning Enthusiast
 
 I'm passionate about solving real-world problems using data, machine learning, and software development. I enjoy building practical applications that combine analytics with intuitive user experiences.
 
@@ -125,7 +125,6 @@ Next Mission:
 
 ## 📌 Featured Projects
 
-- 🌾 Crop Price Forecasting Dashboard
 - 💰 Student Expense Tracker
 - 📊 Sales Data Analytics Dashboard
 - 🤖 Customer Churn Prediction
