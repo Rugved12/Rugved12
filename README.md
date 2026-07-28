@@ -63,7 +63,7 @@ Next Mission:
 
 ## 🚀 About Me
 
-- 🎓 Pursuing M.E. in Computer Engineering
+- 🎓 Pursuing BTech in ELCE
 - 💡 Interested in Data Analytics, AI, Machine Learning, and Full-Stack Development
 - 🌱 Currently working on Data Analytics and Machine Learning projects
 - 📫 Reach me at **rugved123adkar@gmail.com**
